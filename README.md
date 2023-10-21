@@ -7,6 +7,7 @@ here are some highlights:
 * Basics Key-bindings for terminal, file manager, Application launcher & Browser
 * High rounding only on floating terminal
 * Right shifted shadows
+* Borders are only on floating windows to keep them separate from background(i like window without border)
 
 ![20231021_19h53m44s_grim](https://github.com/the-loan-wolf/hyprland-config/assets/37395721/1ca3c402-44fa-440a-b566-4b9b3879d7c4)
 
